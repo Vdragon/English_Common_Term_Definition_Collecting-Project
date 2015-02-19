@@ -1,4 +1,4 @@
-# 英文常見字詞定義收集專案<br />English Common Word/Phrase Definition Collecting Project
+# 英文常見字詞定義收集專案<br />English Common Term Definition Collecting Project
 一個方便收集、查詢、學習英文陌生字彙定義的專案。  
 <http://project.url.undefined>
 
