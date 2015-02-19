@@ -1,6 +1,6 @@
 # 英文常見字詞定義收集專案<br />English Common Term Definition Collecting Project
 一個方便收集、查詢、學習英文陌生字彙定義的專案。  
-<http://project.url.undefined>
+<https://github.com/Vdragon/English_Common_Term_Definition_Collecting_Project>
 
 ## 本專案與其他辭彙定義查詢資源的不同之處
 ### 開放授權（相對於其他專有授權的查詢資源）
@@ -34,7 +34,7 @@
 克隆(clone)本 Git 版本倉庫到本地端，做出您的修改並提交(commit)為一個新的版本提交，最後將您本地端的變更推送(push)到您的 GitHub 版本倉庫並向我們提交一個拉取請求(pull request)即可。
 
 ### 提交問題與建議
-於我們的[議題追蹤系統](http://project.issue.tracker.url.undefined)建檔(file)或追蹤您的議題。
+於我們的[議題追蹤系統](https://github.com/Vdragon/English_Common_Term_Definition_Collecting_Project/issues)建檔(file)或追蹤您的議題。
 
 ### 分享本專案給他人
 將本專案分享給他人，增加使用者與貢獻者的數量。
