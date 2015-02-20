@@ -25,7 +25,7 @@
 一言以蔽之，任何本專案之內容之衍伸作品皆必須：
 
 * 以本專案指定的方式標示本專案內容的作者：
-> 本片段內容基於「[英文常見字詞定義收集專案](http://project.url.undefined)」的「〈參考來源頁面標題與網路地址〉」，其以 Creative Commons BY 4.0 或其更近期之任意版本授權條款釋出。
+> 本片段內容基於「[英文常見字詞定義收集專案](https://github.com/Vdragon/English_Common_Term_Definition_Collecting_Project)」的「〈參考來源頁面標題與網路地址〉」，其以 Creative Commons BY 4.0 或其更近期之任意版本授權條款釋出。
 
 更詳細的規定事項請參考該授權條款的[授權標章](https://creativecommons.org/licenses/by/4.0)與[完整法律條款](https://creativecommons.org/licenses/by/4.0/legalcode)。
 
